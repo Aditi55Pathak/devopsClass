@@ -1,7 +1,3 @@
-Sure! Here's a concise yet comprehensive README file:
-
----
-
 # Agile Methodology and Development
 
 ## Overview of Version Control System Using GIT
@@ -32,6 +28,3 @@ Git is a distributed version control system designed to handle everything from s
   - Pros: Enhanced redundancy, better performance for distributed teams, supports offline work, easier branching and merging.
   - Cons: More complex to understand initially, larger disk usage.
 
----
-
-This README provides a clear and comprehensive overview of version control systems and the importance of Git in agile methodology and development. Feel free to customize it further based on your specific needs!
